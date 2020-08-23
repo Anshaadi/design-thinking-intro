@@ -12,7 +12,7 @@ Eric Ries has [defined](https://www.agilealliance.org/glossary/mvp) the MVP as "
 
 There are three factors to be considered when establishing the MVP:
 1. Desirability - what does the user need?
-2. Viability - what is is the business case for the product?
+2. Viability - what is the business case for the product?
 3. Feasibility - what is technically & financially feasible?
 
 In Design Thinking, human-centered design begins with Desirability.  The convergence of user need,  business viability, and technical & financial feasibility outlines the solution.
